@@ -67,3 +67,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "revise_auth", "~> 0.7.0"
